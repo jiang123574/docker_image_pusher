@@ -5,5 +5,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 homeassistant/home-assistant
 a76yyy/qiandao
-neosmemo/memos:stable
+neosmemo/memos
 whyour/qinglong
