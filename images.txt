@@ -1,9 +1,18 @@
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#homeassistant/home-assistant
+homeassistant/home-assistant
 #a76yyy/qiandao
 neosmemo/memos
 #whyour/qinglong
+6053537/portainer-ce
+louislam/uptime-kuma
+snowdreamtech/frps
+esphome/esphome
+eclipse-mosquitto
+chishin/nginx-proxy-manager-zh
+lobehub/lobe-chat
+suwmlee/ikaros
