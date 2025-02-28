@@ -16,3 +16,4 @@ eclipse-mosquitto
 chishin/nginx-proxy-manager-zh
 lobehub/lobe-chat
 suwmlee/ikaros
+6053537/portainer-ce
