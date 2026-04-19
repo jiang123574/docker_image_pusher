@@ -16,3 +16,4 @@ eclipse-mosquitto
 chishin/nginx-proxy-manager-zh
 lobehub/lobe-chat
 suwmlee/ikaros
+b3log/siyuan
